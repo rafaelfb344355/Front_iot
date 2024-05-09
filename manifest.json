@@ -1,17 +1,17 @@
 {
 "name": "macheni",
-"short_name": "MXT",
+"short_name": "MXF",
 "start_url": "index.html",
 "display": "standalone",
 "description": "A description for your application",
 "lang": " The default language of your application",
 "dir": "auto",
-"theme_color": "#000000",
-"background_color": "#000000",
+"theme_color": "#A100FF",
+"background_color": "#00A1E0",
 "orientation": "any",
 "icons": [
     {
-        "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+        "src": "icon.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
@@ -25,16 +25,10 @@
 ],
 "screenshots": [
     {
-        "src": "https://www.pwabuilder.com/assets/screenshots/screen1.png",
+        "src": "screen.png",
         "sizes": "2880x1800",
         "type": "image/png",
         "description": "A screenshot of the home page"
-    }
-],
-"related_applications": [
-    {
-        "platform":"windows",
-        "url": "index.html"
     }
 ],
 "prefer_related_applications": false,
